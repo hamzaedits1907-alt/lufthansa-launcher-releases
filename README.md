@@ -1,0 +1,1 @@
+# lufthansa-launcher-releases
